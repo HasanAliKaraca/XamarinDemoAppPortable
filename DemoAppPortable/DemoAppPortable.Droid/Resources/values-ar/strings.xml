@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SaudiTourism</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_delete">Sil</string>
+    <string name="action_save">Kaydet</string>
+    <string name="notes">Notes</string>
+    <string name="task_name">Task Name</string>
+</resources>
